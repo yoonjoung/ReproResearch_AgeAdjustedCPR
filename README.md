@@ -4,4 +4,4 @@ This repository has Stata do file as well as R markdown file to reproduce analys
 
 There are three sections in each document (R markdown or Stata do file) for: accessing public data (in this case, DHS API data); preparing the analysis data file; and conducting analysis. Analysis section contains code for reproducing results presented in the paper only. The paper was prepared using Stata.
 
-Output of the R markdown file is available here. http://rpubs.com/YJ_Choi/ReproResearch_AgeAdjustedCPR
+Output of the R markdown file is available here (coming soon). 
